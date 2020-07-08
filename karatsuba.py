@@ -2,7 +2,7 @@
 """
 Created on Sun Jul  5 15:52:53 2020
 
-@author: chand
+@author: Chandra Varanasi
 """
 
 def prod(n1,n2):
